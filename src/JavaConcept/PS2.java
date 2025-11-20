@@ -20,5 +20,10 @@ public class PS2 extends PS3 {
 		a= a-1;
 		return a;
 	}
+	
+	private void Sysout() {
+		// TODO Auto-generated method stub
+
+	}
 
 }

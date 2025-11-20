@@ -9,6 +9,9 @@ public class PS {
 		System.out.println("I am in super class");
 		System.out.println("I am in Instagram class");
 		
+		System.out.println("I am in Instagram class1");
+		System.out.println("I am in Facebook class");
+		System.out.println("I am in Twitter class");
 	}
 	
 

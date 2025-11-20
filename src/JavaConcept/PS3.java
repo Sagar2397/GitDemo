@@ -11,7 +11,9 @@ public class PS3 {
 	public int Multiply() {
 		
 		a=a*3;
+		System.out.println("a is incremented");
 		return a;
+		
 	}
-
+	
 }
