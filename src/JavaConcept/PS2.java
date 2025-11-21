@@ -13,7 +13,7 @@ public class PS2 extends PS3 {
 	public int increment() {
 		
 		a= a+1;
-		return a;	
+		return a;
 	}
 	
 	public int decrement() {
@@ -21,9 +21,6 @@ public class PS2 extends PS3 {
 		return a;
 	}
 	
-	private void Sysout() {
-		// TODO Auto-generated method stub
-
-	}
+	
 
 }

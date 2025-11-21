@@ -23,4 +23,10 @@ public class PS3 {
 		System.out.println("SF-INDIA dashboard");
 		System.out.println("You are on app.scalefusion.com");
 	}
+	
+	public void USGuy() {
+		
+		System.out.println("you are in calefornia ");
+		System.out.println("You are in UK");
+	}
 }
