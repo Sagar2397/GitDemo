@@ -14,5 +14,11 @@ public class PS {
 		System.out.println("I am in Twitter class");
 	}
 	
+	public void workflows() {
+		
+		System.out.println("Switch profile workflow");
+		System.out.println("Single app workflow");
+		System.out.println("Inactivity compliance workflow");
+	}
 
 }

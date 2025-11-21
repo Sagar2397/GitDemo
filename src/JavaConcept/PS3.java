@@ -12,8 +12,15 @@ public class PS3 {
 		
 		a=a*3;
 		System.out.println("a is incremented");
+		System.out.println("b is incremented");
+		System.out.println("c is incremented");
 		return a;
 		
 	}
 	
+	public void Dashboard() {
+		System.out.println("Devengers dashboard");
+		System.out.println("SF-INDIA dashboard");
+		System.out.println("You are on app.scalefusion.com");
+	}
 }
